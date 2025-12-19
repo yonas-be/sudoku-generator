@@ -6,10 +6,6 @@ import copy
 from exportpdf import export_to_pdf
 from sudokulogic import generate, solve
 
-#-----------------------------
-# Global variables
-#-----------------------------
-SOLUTIONS = 0
 
 #-----------------------------
 # Functions

@@ -1,5 +1,11 @@
 import random
 
+#-----------------------------
+# Global variables
+#-----------------------------
+SOLUTIONS = 0
+
+
 # Main function to generate a puzzle
 def generate(difficulty: str | None):
     grid = []
